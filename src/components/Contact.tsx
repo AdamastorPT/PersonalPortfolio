@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { Mail } from 'lucide-react';
+import logo from '../assets/logo.png';
 
 export default function Contact() {
   return (
@@ -39,11 +40,7 @@ export default function Contact() {
               </div>
                 </div>
               </div>
-              <img 
-                  src='src/assets/logo.png' 
-                  alt="Logo" 
-                  className="w-75 h-64"
-                />
+              <img src={logo} alt="Logo" className="w-75 h-64" />
               <div className="flex items-center">
               </div>
             </div>
