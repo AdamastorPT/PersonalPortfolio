@@ -6,7 +6,6 @@
     "composite": true,
     "declaration": true,
     "esModuleInterop": true,
-    "emitDeclarationOnly": true,
     "skipLibCheck": true,
 
     /* Bundler mode */
