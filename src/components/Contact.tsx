@@ -40,7 +40,7 @@ export default function Contact() {
                 </div>
               </div>
               <img 
-                  src='/logo.png' 
+                  src='src/assets/logo.png' 
                   alt="Logo" 
                   className="w-75 h-64"
                 />
