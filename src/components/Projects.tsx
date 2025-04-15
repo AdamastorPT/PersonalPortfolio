@@ -1,9 +1,9 @@
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { ExternalLink, ArrowRight } from 'lucide-react';
 import { useRef } from 'react';
-import projectImage1 from '/Users/Desktop/Desktop/project/src/assets/project1.jpg';
-import projectImage2 from '/Users/Desktop/Desktop/project/src/assets/project2.jpg';
-import projectImage3 from '/Users/Desktop/Desktop/project/src/assets/project3.jpg';
+import projectImage1 from '@/assets/project1.jpg';
+import projectImage2 from '@/assets/project2.jpg';
+import projectImage3 from '@/assets/project3.jpg';
 
 
 const projects = [
